@@ -1,0 +1,9 @@
+module alu(
+	output [31:0] aluOut
+	input [31:0] rsCont,
+	input [31:0] rtCont);
+
+
+
+
+endmodule

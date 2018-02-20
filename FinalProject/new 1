@@ -1,0 +1,11 @@
+
+
+{
+	'method' : 'string' , 		// 'create_dep'
+	'app_name' : 'string' , 	// 'test_app'
+	'app_path' : 'string' ,		// '/home/ec2-user/apps/
+	'public_ip' : 'string' ,		// '52.39.172.96'
+	'pem_file' : 'string' ,  		// 'uzun bir key'
+	'usage' : 'string'				// 'ssh -i "imarkett.pem" ec2-user@ec2-52-39-172-96.us-west-2.compute.amazonaws.com'
+										// imarkett.pem denilen dosya bir ust satirdaki pem_file keyini iceriyor.
+}

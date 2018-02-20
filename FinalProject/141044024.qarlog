@@ -1,0 +1,32 @@
+Quartus II Archive log --	C:/Organizasyon/FinalProject/141044024.qarlog
+
+Archive:	C:/Organizasyon/FinalProject/141044024.qar
+Date:		Wed Jan 03 17:39:12 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Organizasyon/FinalProject/assignment_defaults.qdf
+C:/Organizasyon/FinalProject/data.mem
+C:/Organizasyon/FinalProject/db/project03.db_info
+C:/Organizasyon/FinalProject/incremental_db/compiled_partitions/project03.db_info
+C:/Organizasyon/FinalProject/instruction.mem
+C:/Organizasyon/FinalProject/mips_alu.v
+C:/Organizasyon/FinalProject/mips_control.v
+C:/Organizasyon/FinalProject/mips_core.v
+C:/Organizasyon/FinalProject/mips_data_mem.v
+C:/Organizasyon/FinalProject/mips_instr_mem.v
+C:/Organizasyon/FinalProject/mips_registers.v
+C:/Organizasyon/FinalProject/mips_testbench.v
+C:/Organizasyon/FinalProject/project03.qpf
+C:/Organizasyon/FinalProject/project03.qsf
+C:/Organizasyon/FinalProject/readme.txt
+C:/Organizasyon/FinalProject/registers.mem
+C:/Organizasyon/FinalProject/simulation/modelsim/data.mem
+C:/Organizasyon/FinalProject/simulation/modelsim/instruction.mem
+C:/Organizasyon/FinalProject/simulation/modelsim/registers.mem
+C:/Organizasyon/FinalProject/simulation/modelsim/res_data.mem
+C:/Organizasyon/FinalProject/simulation/modelsim/res_registers.mem
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
